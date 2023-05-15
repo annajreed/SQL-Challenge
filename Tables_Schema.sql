@@ -29,4 +29,3 @@ create table salaries (emp_no int not null, salary int not null,
 create table titles (title_id varchar not null, title varchar not null,
 					primary key(title_id));
 					
-select * from dept_manager;
